@@ -7,7 +7,7 @@
 // @match        https://codeforces.com/problemset/status?friends=on
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=codeforces.com
 // @license      MIT
-// @source       https://github.com/platelett/script/blob/main/CF%20notification
+// @source       https://github.com/platelett/script/blob/main/CF%20notification.js
 // @grant        none
 // ==/UserScript==
 
